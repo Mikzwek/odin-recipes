@@ -1,0 +1,2 @@
+This project is about learning web developing, learning languages as html, css, javascript, also, phyton and others that I don't know yet. 
+I would like to be able to create a dynamic website, I hope I don't give up later in the process of learning web development through the odin project. 
